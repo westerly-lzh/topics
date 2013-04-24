@@ -9,7 +9,7 @@ categories:
 tags:
 - Topics
 - 幻灯片
--讲演
+- 讲演
 - Slides
 ---
 
