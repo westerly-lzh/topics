@@ -13,9 +13,4 @@ tags:
 - Slides
 ---
 
-2013-04-25:[Java Tutorial](http://)
-
-{% highlight python %}
-demo = demo
-
-{% endhighlight %}
+test
