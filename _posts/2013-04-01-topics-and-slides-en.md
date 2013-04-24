@@ -14,7 +14,7 @@ tags:
 ---
 
 
-This page collects **Topics and Slides** presented from 2013.
+This page collects **Topics and Slides** presented from 2013.See [Chinese Topics and Slides](http://jeff-lee.name/topics/2013/04/topics-and-slides-cn/).
 
 
 [Java Tutorial](https://github.com/westerly-lzh/java_tutorial)
