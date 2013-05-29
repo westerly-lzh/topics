@@ -26,7 +26,9 @@ This page collects **Topics and Slides** presented from 2013.See [Chinese Topics
 
 + [Class,Exception,Annotation](https://github.com/westerly-lzh/java_tutorial/tree/master/class_exception_annotation): Introduce the basic skills with Java Class, Exception and Annotation.
 
-+ [Spring,Struts,Hibernate _0](https://github.com/westerly-lzh/java_tutorial/tree/master/ssh-simple): Introduce a simple case for SSH(Spring,Struts and Hibernate) Developing.
++ [Spring,Struts,Hibernate](https://github.com/westerly-lzh/java_tutorial/tree/master/ssh-simple): Introduce a simple case for SSH(Spring,Struts and Hibernate) Developing.
+
++ [Struts2_0](https://github.com/westerly-lzh/java_tutorial/tree/master/mavendemos):Introduce Struts2.
 
 
 
